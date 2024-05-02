@@ -15,6 +15,8 @@ here we need to go to service accounts and in the service account we are going t
 and here we will generate new private key so we are going to
 create and this will create our private key and then we have to copy this code
 and add it to our uh python code so that it runs.
+![image](https://github.com/mohameddaoud2001/WebBased-Facial-Authentication/assets/128754692/3400a47a-9b83-409d-ad68-2ca306b76b48)
+
 
 ![image](https://github.com/mohameddaoud2001/WebBased-Facial-Authentication/assets/128754692/e4fd261c-ae96-417b-b520-98bacca24034)
 
